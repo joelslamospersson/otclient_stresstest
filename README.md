@@ -13,3 +13,8 @@ System: Linux ( Ubuntu 24.04 )
 
 ## Previous testing
 Running 850~ mb per client~
+
+# Todo
+1) Optimize per client usage
+2) Fix spam messages per x seconds
+3) Set communication by command to trigger login by botnet ( Idle machines setup awaiting status to login )
